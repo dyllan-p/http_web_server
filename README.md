@@ -109,5 +109,4 @@ Results:
 
 ## License
 
-MIT
 This is a learning project built from system call man pages and HTTP specifications.
